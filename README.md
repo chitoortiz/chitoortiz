@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @chitoortiz
+- 👋 Hi, I’m Ignacio Ortiz-Cañavate
 - 👀 I’m interested in Computer Science and videogames.
 - 🌱 I’m currently learning high-level python.
-- 💞️ I’m looking to collaborate on pygame game development
+- 💞️ I’m looking to collaborate on pygame game development.
 - 📫 How to reach me: gmail -> ortizcanavatenacho17@gmail.com
 
 <!---
